@@ -90,6 +90,36 @@ Chunking in NLTK
 
 Chinking with NLTK. Basically chunk everything except of something
 
+### `07.py`
 
+Named Entity Recognition with NLTK
+
+    NE Type and Examples
+    
+    ORGANIZATION - Georgia-Pacific Corp., WHO
+    PERSON - Eddy Bonte, President Obama
+    LOCATION - Murray River, Mount Everest
+    DATE - June, 2008-06-29
+    TIME - two fifty a m, 1:30 p.m.
+    MONEY - 175 million Canadian Dollars, GBP 10.40
+    PERCENT - twenty pct, 18.75 %
+    FACILITY - Washington Monument, Stonehenge
+    GPE - South East Asia, Midlothian
+
+
+### `08.py`
+
+Lemmatizing with NLTK. Transforming words with similar meaning to single synonym.
+
+### `09.py`
+
+The corpora with NLTK. Access to raw files and raw conetnt
+
+
+### `10.py`
+
+Wordnet with NLTK. Wordnet si corpora of NLTK.
+WordNet is a lexical database for the English language, which was created by Princeton, and is part of the NLTK corpus.
+You can use WordNet alongside the NLTK module to find the meanings of words, synonyms, antonyms, and more. Let's cover some examples.
 
 
